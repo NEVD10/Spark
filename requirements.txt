@@ -1,0 +1,8 @@
+pyspark
+pandas
+pupyter
+python-dotenv
+pyrrow
+matplotlib
+pymongo
+pypmongo
